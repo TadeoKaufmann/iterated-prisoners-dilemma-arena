@@ -1,0 +1,13 @@
+strategy,final_share_uniform_start,basin_share
+AlwaysCooperate,0.0,0.0
+AlwaysDefect,0.0,0.0
+TitForTat,0.0007,0.0005
+SuspiciousTFT,0.0,0.0
+GenerousTFT,0.998,0.659
+AntiTitForTat,0.0,0.0
+Alternator,0.0013,0.0
+GrimTrigger,0.0,0.2935
+Pavlov,0.0,0.047
+Joss,0.0,0.0
+Extort3,0.0,0.0
+Random,0.0,0.0
