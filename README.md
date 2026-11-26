@@ -4,7 +4,7 @@ Tit for Tat is famous for winning tournaments. This project asks what happens to
 
 ![Spatial tournament: each cell plays its neighbours and copies the best scorer](figures/spatial.gif)
 
-*Every pixel is a player. It plays its eight neighbours, then copies whoever scored best around it. Blue-purple blocks are Pavlov, green ones Generous Tit for Tat.*
+*Every pixel is a player. It plays its eight neighbours, then copies whoever scored best around it. Purple blocks are Pavlov, green ones Generous Tit for Tat.*
 
 ## The setup
 
